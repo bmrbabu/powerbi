@@ -1,31 +1,5 @@
 # Online/Class Room Training
 
-.
-
-
-.
-
-
-.
-
-
-.
-.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Power BI
 1. **[Data Warehousing Concepts](#Data-Warehousing-Concepts)**<br>
 2. **[Introduction Installation](#Introduction-Installation)**<br>
