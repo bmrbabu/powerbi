@@ -1,10 +1,5 @@
 
 # GitHub For Version Controlling?
-----
-
-`Click Below and Listen YouTube Video`   
-
-[![Listen YouTube Video](http://img.youtube.com/vi/QrRcJjgRRnM/0.jpg)](http://www.youtube.com/watch?v=QrRcJjgRRnM)
 
 ## What is version control?
 ----
@@ -40,7 +35,7 @@ git status shows you which files are in this staging area, and which files have 
 - download git software https://git-scm.com/downloads
 - install git
 
-## Clone a repository of rritec
+## Clone a repository of bmrbabu
 
 ### Step 1: Create one empty directory on desktop with today date
 - you can create manually by going to desktop
