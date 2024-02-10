@@ -81,12 +81,9 @@ Some text to show that the reference links can follow later.
 Here's our logo (hover to see the title text):
 
 Inline-style: 
-![Image of RamReddy](https://raw.githubusercontent.com/rritec/datahexa/master/images/RamReddy.jpg "RamReddy Data Science Mentor")
 
 Reference-style: 
-![alt text][logo]
 
-[logo]: https://raw.githubusercontent.com/rritec/datahexa/master/images/datahexa%20logo.jpg "DataHexa logo"
 
 # 6. Code and Syntax Highlighting
 ------------------------------------------------
